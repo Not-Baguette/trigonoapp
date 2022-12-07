@@ -44,7 +44,7 @@ Membuat sebuah set soal yang unik setiap kali ditekan
 ### Rumus
 Memberikan visualisasi yang mudah dipahami serta rumus sesuai tombol kuadran dan dapat menunjukkan Grafik Sinus, Cosinus, dan Tangen
 
-![image](h![1](https://user-images.githubusercontent.com/94969176/206153443-9b46cb1d-f33c-44c7-82b7-acd67b937f27.png)
+![image](https://user-images.githubusercontent.com/94969176/206153443-9b46cb1d-f33c-44c7-82b7-acd67b937f27.png)
 
 
 =================================================================================
@@ -53,9 +53,9 @@ Memberikan visualisasi yang mudah dipahami serta rumus sesuai tombol kuadran dan
 ++ Melalui Release (Direkomendasikan jika tidak ada pengetahuan programming)
 - Scroll keatas
 - Tekan yang paling utama di tab kecil release
-![image](h![1](https://user-images.githubusercontent.com/94969176/206158296-1e1d1054-403d-4d80-a2bb-64da92d068ba.png)
+![image](https://user-images.githubusercontent.com/94969176/206158296-1e1d1054-403d-4d80-a2bb-64da92d068ba.png)
 - Tekan `Trigonoapp.exe`
-![image](h![2](https://user-images.githubusercontent.com/94969176/206158419-9bf3b56c-0d34-46dc-a20c-76fd5aa15c63.png)
+![image](https://user-images.githubusercontent.com/94969176/206158419-9bf3b56c-0d34-46dc-a20c-76fd5aa15c63.png)
 - Tunggu sampai download selesai
 - Buka aplikasi seperti Biasa
 
