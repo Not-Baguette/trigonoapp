@@ -1,5 +1,7 @@
 # Trigonoapp
 
+Aplikasi pembantu pembelajaran trigonometri untuk semua orang yang dapat digunakan sambil bermain aplikasi lain.
+
 ## Preview
 ![image](https://user-images.githubusercontent.com/94969176/206151345-920165f3-1ddc-4a6a-a672-e4583eae8516.png)
 
