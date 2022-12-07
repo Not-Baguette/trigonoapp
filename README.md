@@ -49,7 +49,7 @@ Memberikan visualisasi yang mudah dipahami serta rumus sesuai tombol kuadran dan
 
 =================================================================================
 
-## Cara Download (Prerequistes)
+## Cara Download
 ++ Melalui Release (Direkomendasikan jika tidak ada pengetahuan programming)
 - Scroll keatas
 - Tekan yang paling utama di tab kecil release
