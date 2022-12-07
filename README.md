@@ -18,8 +18,7 @@ Aplikasi pembantu pembelajaran trigonometri untuk semua orang yang dapat digunak
 
 ![image](https://user-images.githubusercontent.com/94969176/206152240-0125fc13-b02b-40ff-aa3c-49b1d6d3a8b8.png)
 
-
-===========================================================================
+---------------------------------------------------------------------------
 
 ### Tabel Trigonometri
 Memberikan tabel yang bisa digunakan untuk mengecek Sin/Cos/Tan 0-360 secara mudah
@@ -29,7 +28,7 @@ Memberikan tabel yang bisa digunakan untuk mengecek Sin/Cos/Tan 0-360 secara mud
 ![image](https://user-images.githubusercontent.com/94969176/206151831-70b54fa0-17db-41a6-b1cc-330b10a1dcf8.png)
 
 
-===========================================================================
+---------------------------------------------------------------------------
 
 ### Soal
 Membuat sebuah set soal yang unik setiap kali ditekan
@@ -39,7 +38,7 @@ Membuat sebuah set soal yang unik setiap kali ditekan
 ![image](https://user-images.githubusercontent.com/94969176/206153050-830ed499-4e89-4f3e-b2bf-eead31ac81ab.png)
 
 
-===========================================================================
+---------------------------------------------------------------------------
 
 ### Rumus
 Memberikan visualisasi yang mudah dipahami serta rumus sesuai tombol kuadran dan dapat menunjukkan Grafik Sinus, Cosinus, dan Tangen
