@@ -33,11 +33,14 @@ Membuat sebuah set soal yang unik setiap kali ditekan
 ### Rumus
 Memberikan visualisasi yang mudah dipahami serta rumus sesuai tombol kuadran dan dapat menunjukkan Grafik Sinus, Cosinus, dan Tangen
 
-![image](https://user-images.githubusercontent.com/94969176/206153443-9b46cb1d-f33c-44c7-82b7-acd67b937f27.png)
+//user-images.githubusercontent.com/94969176/206153443-9b46cb1d-f33c-44c7-82b7-acd67b937f27.png)
 
 ## Cara Download (Prerequistes)
 ++ Melalui Release
-- TBD
+- 
+
+![image](h![1](https://user-images.githubusercontent.com/94969176/206158296-1e1d1054-403d-4d80-a2bb-64da92d068ba.png)
+![image](h![2](https://user-images.githubusercontent.com/94969176/206158419-9bf3b56c-0d34-46dc-a20c-76fd5aa15c63.png)
 
 ++ Melalui Source Code (Memiliki pemahaman programming agar mudah)
 - Download `python 3.8 atau keatas`
