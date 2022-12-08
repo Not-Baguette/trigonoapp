@@ -644,7 +644,7 @@ def main():
     about_judul_label = Label(about_tab, text="About", font=("Consolas", 30, "bold"))
     about_label = Label(about_tab, font=("Consolas", 10), text="""Proyek aplikasi trigonoapp ini adalah proyek untuk
     sekolah, Proyek ini dibuat oleh:
-    - Dihapus untuk privasi
+    - Baguette (https://github.com/Not-Baguette/)
     - Dihapus untuk privasi
     
     Special Thanks:
@@ -656,7 +656,7 @@ def main():
     secret_button = Button(secret_tab, text="DO NOT CLICK", command=secret_func)
 
     # Version label
-    version_label = Label(about_tab, text="Ver.Alpha 0.3", font=("Consolas", 10, "bold"))
+    version_label = Label(about_tab, text="Ver.Beta 0.4", font=("Consolas", 10, "bold"))
 
     # Ontop button (main menu)
     ontop_main_menu_button = Button(main_tab, text="On Top", command=ontop_main_menu)
