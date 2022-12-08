@@ -59,7 +59,7 @@ Memberikan visualisasi yang mudah dipahami serta rumus sesuai tombol kuadran dan
 - Buka aplikasi seperti Biasa
 
 
-++ Melalui Source Code (Memiliki pemahaman programming agar mudah)
+++ Melalui Source Code (Direkomendasikan jika memiliki pemahaman programming, Mendapatkan update yang terbaru)
 - Download `python 3.8 atau keatas`
 - Download library `Tkinter`, `matplotlib`, dan `numpy`
 - Download `main.py` dari repository
