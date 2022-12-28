@@ -1,4 +1,5 @@
 # Trigonoapp
+Juga hadir di [bahasa inggris](https://github.com/Not-Baguette/trigonoapp/blob/main/README.md)!
 
 Aplikasi pembantu pembelajaran trigonometri untuk semua orang yang dapat digunakan sambil bermain aplikasi lain.
 
@@ -10,7 +11,6 @@ Aplikasi pembantu pembelajaran trigonometri untuk semua orang yang dapat digunak
 ![image](https://user-images.githubusercontent.com/94969176/206151514-539a28e3-7585-4f37-b9ff-fdec6908ff4b.png)
 
 
-===========================================================================
 
 ## Fitur
 - Waktu lokal dalam aplikasi
@@ -46,7 +46,6 @@ Memberikan visualisasi yang mudah dipahami serta rumus sesuai tombol kuadran dan
 ![image](https://user-images.githubusercontent.com/94969176/206153443-9b46cb1d-f33c-44c7-82b7-acd67b937f27.png)
 
 
-===========================================================================
 
 ## Cara Download
 ++ Melalui Release (Direkomendasikan jika tidak ada pengetahuan programming)
@@ -60,7 +59,7 @@ Memberikan visualisasi yang mudah dipahami serta rumus sesuai tombol kuadran dan
 
 
 ++ Melalui Source Code (Direkomendasikan jika memiliki pemahaman programming, Mendapatkan update yang terbaru)
-- Download `python 3.8 atau keatas`
+- Download `python 3.9 atau keatas`
 - Download library `Tkinter`, `matplotlib`, dan `numpy`
 - Download `main.py` dari repository
 - Jalankan `main.py`
