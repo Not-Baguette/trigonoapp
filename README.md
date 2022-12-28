@@ -1,5 +1,5 @@
 # Trigonoapp
-Also available in [Indonesian https://github.com/Not-Baguette/trigonoapp/blob/main/README%20-%20ID.md]!
+Also available in [Indonesian](https://github.com/Not-Baguette/trigonoapp/blob/main/README%20-%20ID.md)!
 
 An assistant application for trigonometric studies that anyone can use simultaneously on other apps
 
