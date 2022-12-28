@@ -52,8 +52,7 @@ Memberikan visualisasi yang mudah dipahami serta rumus sesuai tombol kuadran dan
 - Scroll keatas
 - Tekan yang paling utama di tab kecil release
 ![image](https://user-images.githubusercontent.com/94969176/206158296-1e1d1054-403d-4d80-a2bb-64da92d068ba.png)
-- Tekan `Trigonoapp.exe`
-![image](https://user-images.githubusercontent.com/94969176/206158419-9bf3b56c-0d34-46dc-a20c-76fd5aa15c63.png)
+- Tekan `Trigonoapp - id.exe` (Release Beta 1.0)
 - Tunggu sampai download selesai
 - Buka aplikasi seperti Biasa
 
