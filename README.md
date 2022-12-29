@@ -3,6 +3,10 @@ Also available in [Indonesian](https://github.com/Not-Baguette/trigonoapp/blob/m
 
 An assistant application for trigonometric studies that anyone can use simultaneously on other apps
 
+## TODO
+
+- [ ] Migrate to `customtkinter` for better design
+
 ## Preview
 ![image](https://user-images.githubusercontent.com/94969176/209784190-7203364b-b8d2-44b1-a3cb-afebcfd83cba.png)
 
