@@ -1,4 +1,6 @@
 # Trigonoapp
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8d28d1dce64d42059792d9d97987a756)](https://app.codacy.com/gh/Not-Baguette/trigonoapp/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+
 Also available in [Indonesian](https://github.com/Not-Baguette/trigonoapp/blob/main/README%20-%20ID.md)!
 
 An assistant application for trigonometric studies that anyone can use simultaneously on other apps
